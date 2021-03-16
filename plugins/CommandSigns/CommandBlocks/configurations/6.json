@@ -1,0 +1,37 @@
+{
+  "id": 6,
+  "disabled": false,
+  "activation_mode": "BOTH",
+  "location": {
+    "x": -426.0,
+    "y": 92.0,
+    "z": 2380.0,
+    "world": "world"
+  },
+  "timer": {
+    "duration": 4,
+    "cancelled_on_move": true,
+    "reset_on_move": false
+  },
+  "commands": [
+    "/tp @s -418.7 77 2441.7"
+  ],
+  "temporarily_granted_permissions": [],
+  "addons": {
+    "ncs_economy": {
+      "price": 20.0
+    },
+    "ncs_confirmation": {
+      "require_confirmation": false
+    },
+    "ncs_required_permissions": {
+      "required_permissions": []
+    },
+    "ncs_cooldowns": {
+      "global_cooldown": -1,
+      "player_cooldown": -1,
+      "is_global_once": false,
+      "is_player_once": false
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "c5d632bc-7657-3f0c-9ff7-6297be3bd2a0",
+    "name": "victorfrei",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "85abee5c-c249-3d9a-8742-02bb6efceda8",
+    "name": "MindLikeCeleron",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4e613ff0-327a-3322-91a0-2eeb7517857a",
+    "name": "MetalCore",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

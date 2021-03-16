@@ -1,0 +1,14 @@
+Main:
+
+  # Items that shouldn't work with Remote Tools. You should put items in here
+  # that other plugins use to store data with.
+  Sync Touch Blacklist:
+  - CHEST
+  - FURNACE
+  - HOPPER
+
+System:
+
+  # The enabled language file.
+  # More language files (if available) can be found in the plugins data folder.
+  Language Mode: en_US

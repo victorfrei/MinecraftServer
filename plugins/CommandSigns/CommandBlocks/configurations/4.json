@@ -1,0 +1,38 @@
+{
+  "id": 4,
+  "name": "Villagers sell 4",
+  "disabled": false,
+  "activation_mode": "BOTH",
+  "location": {
+    "x": -426.0,
+    "y": 64.0,
+    "z": 2415.0,
+    "world": "world"
+  },
+  "timer": {
+    "duration": 0,
+    "cancelled_on_move": false,
+    "reset_on_move": false
+  },
+  "commands": [
+    "/give @s minecraft:iron_ingot 40"
+  ],
+  "temporarily_granted_permissions": [],
+  "addons": {
+    "ncs_economy": {
+      "price": 40.0
+    },
+    "ncs_confirmation": {
+      "require_confirmation": false
+    },
+    "ncs_required_permissions": {
+      "required_permissions": []
+    },
+    "ncs_cooldowns": {
+      "global_cooldown": -1,
+      "player_cooldown": -1,
+      "is_global_once": false,
+      "is_player_once": false
+    }
+  }
+}
